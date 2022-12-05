@@ -1,0 +1,13 @@
+environment: test
+authCode:
+  customVar: xyz458
+server:
+  port: 4500
+
+---
+environment: test
+devName:
+  customVar: Claudio Di Donato
+server:
+  port: 4500
+
